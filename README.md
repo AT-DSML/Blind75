@@ -1,3 +1,3 @@
 # Blind75
-Leetcode
+
 Solution to 9 problems in leetcode blind 75, more on the way...
