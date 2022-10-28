@@ -22,7 +22,7 @@ class Solution:
 
 if __name__ == '__main__':
     sol = Solution()
-    input_list = ["lint", "code", None, "you"]
+    input_list = ["leet", "code", None, "you"]
     encoded = sol.encode_string(input_list)
     print(encoded)
     print(sol.decode_string(encoded))
